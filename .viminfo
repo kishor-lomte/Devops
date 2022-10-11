@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x
-|2,0,1665483298,,"x"
+|2,0,1665485961,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,14 +25,29 @@
 # Registers:
 
 # File marks:
-'0  1  22  ~/mygit
-|4,48,1,22,1665483298,"~/mygit"
+'0  33  14  ~/command.txt
+|4,48,33,14,1665485961,"~/command.txt"
+'1  1  22  ~/mygit
+|4,49,1,22,1665483298,"~/mygit"
 
 # Jumplist (newest first):
+-'  33  14  ~/command.txt
+|4,39,33,14,1665485961,"~/command.txt"
+-'  1  0  ~/command.txt
+|4,39,1,0,1665485950,"~/command.txt"
+-'  1  22  ~/mygit
+|4,39,1,22,1665483298,"~/mygit"
 -'  1  22  ~/mygit
 |4,39,1,22,1665483298,"~/mygit"
 
 # History of marks within files (newest to oldest):
+
+> ~/command.txt
+	*	1665485958	0
+	"	33	14
+	^	33	15
+	.	33	14
+	+	33	14
 
 > ~/mygit
 	*	1665483296	0

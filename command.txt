@@ -1,0 +1,33 @@
+git init - 
+git add 
+git commit 
+git status
+git diff 
+
+
+git clone -b main "url"
+
+git pull 
+
+git commit -am "updated the samplefile1.txt" (not for untracked file)
+
+git config --global credential.helper store - passwordless authentication 
+
+git log --oneline --graph 
+
+git reset  --soft <commit id>
+git rest  --hard <commi id>
+git revert  HEAD 
+
+
+git stash -- create old working dir backup 
+
+git  commit -am "fixed hotfix issue"
+
+git push 
+
+git stash list 
+
+git stash apply 
+
+git stash drop 
