@@ -31,3 +31,4 @@ git stash list
 git stash apply 
 
 git stash drop 
+git remote -v
